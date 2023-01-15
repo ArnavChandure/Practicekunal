@@ -14,7 +14,8 @@ public class Main {
         System.out.println("What is the name of your favorite manga?");
         manga = input.nextLine();
         System.out.println("My name is " + name + " and my favorite managa is " + manga + " by " + mangaka);
-
+        System.out.println("Arnav is learning to use git and github so that he can start working on open sorce projects");
+        
 
     }
 }
